@@ -12,6 +12,7 @@ Tek elemana kalana kadar bölüyoruz.
 
 Tekrar elemanları ikili olarak birleştiriyoruz.
 16,21  11    8   12,22
+
 Son olarak dizimiz elde ediyoruz
 8,11,12,16,21,22
 
